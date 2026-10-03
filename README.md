@@ -14,6 +14,8 @@ Book Generator is a Java 21 + Spring Boot application that analyzes a GitHub rep
 
 The documentation format is predefined in `src/main/resources/templates/global-student-project-v1.json`; users do not upload a template in V1.
 
+Watch site with partial Features :https://book-generator-mc9p.onrender.com/
+
 ## Local services
 
 - PostgreSQL
